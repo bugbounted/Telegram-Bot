@@ -6,7 +6,7 @@ numpy
 openai==0.25.0
 openpyxl==3.0.10
 pandas
-pandas-stubs==1.5.2.230105
+pandas-stubs
 pyTelegramBotAPI==4.9.0
 python-dateutil==2.8.2
 pytz==2022.7
